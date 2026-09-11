@@ -5,9 +5,6 @@
 ---
 
 ## 👥 Equipo de Desarrollo (Integrantes)
-* **Marcelo Rebolledo**
-* **Adolfo Gayoso**
-* **Paolo Paredes**
 * **Daniel Sepúlveda**
 
 ---
